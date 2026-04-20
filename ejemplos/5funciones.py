@@ -10,6 +10,7 @@ def saludarConNombre(nombre):
 #Llamamos a la funcion
 saludar()
 saludar()
+saludarConNombre
 
 #En primer lugar guardamos el nombre
 nombre = input("Introduce tu nombre: ")
